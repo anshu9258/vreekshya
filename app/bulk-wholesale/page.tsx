@@ -2,13 +2,14 @@ import type { Metadata } from "next";
 import EnquiryForm from "@/components/EnquiryForm";
 import PageHead from "@/components/PageHead";
 
-export const metadata: Metadata = { title: "Bulk & Wholesale Supply", description: "Bulk dehydrated ingredients, custom specifications, packaging solutions and private label opportunities from Vreekshya." };
+export const metadata: Metadata = { title: "Bulk & Wholesale Supply", description: "Bulk dehydrated ingredients, custom specifications, contract manufacturing, packaging solutions and white labeling from Vreekshya." };
 
 const solutions = [
   ["Bulk supply", "Dehydrated ingredients in bulk quantities according to customer requirements."],
   ["Custom specifications", "Product formats, cuts and grades based on feasibility and agreed specifications."],
+  ["Contract manufacturing", "Manufacturing support for business customers based on agreed product requirements and feasibility."],
   ["Packaging solutions", "Packaging options based on quantity, product and customer requirements."],
-  ["Private label opportunities", "For businesses developing products under their own brand, subject to feasibility."],
+  ["White labeling", "Products prepared for businesses to market under their own brand, subject to feasibility and agreed specifications."],
   ["Long-term supply partnerships", "Sustainable relationships with distributors, manufacturers and institutional customers."],
 ];
 const buyers = ["Food manufacturers", "Food processing companies", "Bulk ingredient distributors", "Wholesale traders", "Hotels and restaurant chains", "Institutional buyers", "Export houses", "Private-label food brands"];

@@ -32,7 +32,9 @@ export default function Footer() {
           </div>
         </div>
         <p className="legal">
-          © {new Date().getFullYear()} {site.name}. All rights reserved.
+          © {new Date().getFullYear()} {site.legalName}. All rights reserved. GSTIN: {site.gstin}
+          {" · "}Powered by{" "}
+          <a href="https://yourfirstpage.in/" target="_blank" rel="noopener noreferrer">Your First Page</a>
         </p>
       </div>
     </footer>

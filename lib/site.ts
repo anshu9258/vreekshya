@@ -1,7 +1,9 @@
 // Central business details. Everything on the site reads from here.
 export const site = {
   name: "Vreekshya",
-  tagline: "Nature Preserved. Nutrition Delivered.",
+  legalName: "Vreekshya Enterprises",
+  gstin: "09HOTPK0437M1Z6",
+  tagline: "From Roots to Fruits.",
   descriptor: "Premium Dehydrated Fruits, Vegetables, Herbs & Natural Ingredients",
   url: process.env.NEXT_PUBLIC_SITE_URL ?? "https://www.vreekshya.com",
   email: "keshrid992@gmail.com",
@@ -12,7 +14,7 @@ export const site = {
   // Country code + number, no "+". Must be a number registered on WhatsApp.
   whatsapp: process.env.NEXT_PUBLIC_WHATSAPP ?? "917572033407",
   // Leave empty to hide. Fill in to show it in the footer and on the contact page.
-  address: "",
+  address: "Arazi no 61KH, Ashanahar Ashram, Bachra Road, Babhandiha, Sonbhadra, Uttar Pradesh 231208",
   // Add real profile URLs to show the links in the footer.
   social: [
     { label: "Instagram", href: "" },

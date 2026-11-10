@@ -15,11 +15,13 @@ export default function Contact() {
             <h2>Contact details</h2>
             <ul className="list">
               <li><strong>Brand:</strong> {site.name}</li>
+              <li><strong>Registered business name:</strong> {site.legalName}</li>
+              <li><strong>GSTIN:</strong> {site.gstin}</li>
               <li><strong>Website:</strong> {site.url.replace("https://", "")}</li>
               <li><strong>Email:</strong> <a href={`mailto:${site.email}`}>{site.email}</a></li>
               {site.phones.map((p) => <li key={p.tel}><strong>Phone:</strong> <a href={`tel:${p.tel}`}>{p.display}</a></li>)}
               <li><strong>WhatsApp:</strong> <a href={whatsappLink()} target="_blank" rel="noopener noreferrer">Message us</a></li>
-              {site.address && <li><strong>Address:</strong> {site.address}</li>}
+              {site.address && <li><strong>Registered address:</strong> {site.address}</li>}
             </ul>
           </div>
           <EnquiryForm />

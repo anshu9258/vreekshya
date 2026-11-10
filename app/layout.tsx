@@ -24,8 +24,18 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
     "@context": "https://schema.org",
     "@type": "Organization",
     name: site.name,
+    legalName: site.legalName,
+    taxID: site.gstin,
     url: site.url,
     email: site.email,
+    address: {
+      "@type": "PostalAddress",
+      streetAddress: site.address,
+      addressLocality: "Babhandiha, Sonbhadra",
+      addressRegion: "Uttar Pradesh",
+      postalCode: "231208",
+      addressCountry: "IN",
+    },
     contactPoint: site.phones.map((p) => ({ "@type": "ContactPoint", telephone: p.tel, contactType: "sales" })),
   };
   return (

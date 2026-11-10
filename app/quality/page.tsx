@@ -5,7 +5,7 @@ import PageHead from "@/components/PageHead";
 export const metadata: Metadata = { title: "Quality & Processing", description: "From raw material selection to packaging: Vreekshya's processing approach and quality commitment." };
 
 const steps = [
-  ["Raw material selection", "Selection of suitable fruits, vegetables and herbs based on product requirements and quality parameters.", "/images/site/produce.jpg", "Fresh vegetables and herbs on display"],
+  ["Sourcing directly from farmers", "We source fruits, vegetables and herbs directly from farmers, selecting suitable produce based on product requirements and quality parameters.", "/images/site/produce.jpg", "Fresh vegetables and herbs on display"],
   ["Cleaning & preparation", "Cleaning, sorting, grading and preparation of raw materials before processing.", "/images/site/washing.jpg", "Carrots being rinsed under running water"],
   ["Cutting & processing", "Cutting and preparation into suitable sizes and formats depending on the final product.", "/images/site/cutting.jpg", "Vegetables being sliced on a board"],
   ["Dehydration", "Controlled dehydration according to the requirements of individual products.", "/images/site/tray-drying.jpg", "Tray of dried red tomatoes"],
