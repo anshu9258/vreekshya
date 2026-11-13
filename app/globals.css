@@ -82,7 +82,7 @@ p{max-width:64ch}
 .footer a{text-decoration:none;display:block;margin:.3rem 0;opacity:.9}
 .footer a:hover{color:var(--gold)}
 .footer .logo{color:var(--ivory);display:inline-flex;margin-bottom:.6rem}
-.footer .logo-image{width:80px;height:86px}
+.footer .logo-image{width:80px;height:86px;padding:6px;background:var(--ivory);border-radius:12px;box-shadow:0 2px 8px rgba(0,0,0,.14)}
 .footer .legal{margin-top:2.5rem;padding-top:1.2rem;border-top:1px solid rgba(245,240,229,.2);font-size:.85rem;opacity:.7}
 
 /* images */
