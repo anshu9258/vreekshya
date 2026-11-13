@@ -4,7 +4,7 @@ import PageHead from "@/components/PageHead";
 import ProductCard from "@/components/ProductCard";
 import { categories } from "@/lib/products";
 
-export const metadata: Metadata = { title: "Our Products", description: "Dehydrated vegetables, fruits, herbs and leaves, and fruit and vegetable powders for food manufacturers, retail and institutional buyers." };
+export const metadata: Metadata = { title: "Our Products", description: "Dehydrated vegetables, fruits, herbs and leaves for food manufacturers, retail and institutional buyers." };
 
 export default function Products() {
   return (

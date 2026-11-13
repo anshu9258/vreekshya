@@ -14,8 +14,8 @@ export const metadata: Metadata = {
   metadataBase: new URL(site.url),
   title: { default: `${site.name} | Dehydrated Fruits, Vegetables & Natural Ingredients`, template: `%s | ${site.name}` },
   description:
-    "Premium dehydrated fruits, vegetables, herbs and powders from Vreekshya, for food manufacturers, distributors, hotels and retail customers.",
-  openGraph: { type: "website", siteName: site.name, url: site.url, images: ["/images/site/hero-dried-fruit.jpg"] },
+    "Premium dehydrated fruits, vegetables, herbs and leaves from Vreekshya, for food manufacturers, distributors, hotels and retail customers.",
+  openGraph: { type: "website", siteName: site.name, url: site.url, images: ["/images/site/hero-seedling.jpeg"] },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

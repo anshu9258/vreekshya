@@ -5,12 +5,12 @@ import PageHead from "@/components/PageHead";
 export const metadata: Metadata = { title: "Quality & Processing", description: "From raw material selection to packaging: Vreekshya's processing approach and quality commitment." };
 
 const steps = [
-  ["Sourcing directly from farmers", "We source fruits, vegetables and herbs directly from farmers, selecting suitable produce based on product requirements and quality parameters.", "/images/site/produce.jpg", "Fresh vegetables and herbs on display"],
-  ["Cleaning & preparation", "Cleaning, sorting, grading and preparation of raw materials before processing.", "/images/site/washing.jpg", "Carrots being rinsed under running water"],
-  ["Cutting & processing", "Cutting and preparation into suitable sizes and formats depending on the final product.", "/images/site/cutting.jpg", "Vegetables being sliced on a board"],
-  ["Dehydration", "Controlled dehydration according to the requirements of individual products.", "/images/site/tray-drying.jpg", "Tray of dried red tomatoes"],
-  ["Quality inspection", "Inspection of processed materials for relevant parameters, including moisture, appearance, texture and other applicable specifications.", "/images/site/dried-herbs.jpg", "Dried herbs on a wooden spoon"],
-  ["Packaging & storage", "Appropriate packaging and storage designed to maintain product quality and suitability for distribution.", "/images/site/jar.jpg", "Dried green peas in a glass jar"],
+  ["Sourcing directly from farmers", "We source fruits, vegetables and herbs directly from farmers, selecting suitable produce based on product requirements and quality parameters.", "/images/site/process-sourcing.jpeg", "Farmers supplying fresh produce directly from the field"],
+  ["Cleaning & preparation", "Cleaning, sorting, grading and preparation of raw materials before processing.", "/images/site/process-cleaning.jpeg", "Fresh vegetables being cleaned in processing equipment"],
+  ["Cutting & processing", "Cutting and preparation into suitable sizes and formats depending on the final product.", "/images/site/process-cutting.jpeg", "Fresh vegetables moving through automated cutting equipment"],
+  ["Dehydration", "Controlled dehydration and pulverizing according to the requirements of individual products.", "/images/site/process-dehydration-pulverizing.jpeg", "Food dehydration and pulverizing process in a processing facility"],
+  ["Quality inspection", "Inspection of processed materials for relevant parameters, including moisture, appearance, texture and other applicable specifications.", "/images/site/process-quality-inspection.jpeg", "Staff inspecting fresh produce in a quality control area"],
+  ["Packaging & storage", "Appropriate packaging and storage designed to maintain product quality and suitability for distribution.", "/images/site/process-packaging-storage.jpeg", "Packaged products being stored in a warehouse"],
 ];
 
 export default function Quality() {

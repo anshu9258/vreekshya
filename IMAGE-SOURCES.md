@@ -1,8 +1,8 @@
 # Image sources
 
-All photos are from Pexels (https://www.pexels.com/license/), which allows free commercial use without attribution. They are representative stock images, not photos of Vreekshya products. Replace them with your own photos when available.
+Except for the site-owner-supplied hero, process, and product images noted below, photos are from Pexels (https://www.pexels.com/license/), which allows free commercial use without attribution. The Pexels images are representative stock images, not photos of Vreekshya products.
 
-| File | Pexels photo |
+| File | Source |
 |---|---|
 | public/images/products/onion.jpg | https://www.pexels.com/photo/7890176/ |
 | public/images/products/garlic.jpg | https://www.pexels.com/photo/8185497/ |
@@ -45,9 +45,54 @@ All photos are from Pexels (https://www.pexels.com/license/), which allows free 
 | public/images/products/beetroot-slices.jpg | https://www.pexels.com/photo/5758969/ |
 | public/images/products/green-powder.jpg | https://www.pexels.com/photo/5078583/ |
 | public/images/products/powders.jpg | https://www.pexels.com/photo/1340116/ |
+| public/images/products/tomato-product.jpg | Supplied by site owner |
+| public/images/products/beetroot-product.jpg | Supplied by site owner |
+| public/images/products/radish-product.jpg | Supplied by site owner |
+| public/images/products/carrot-product.jpg | Supplied by site owner |
+| public/images/products/ginger-product.jpg | Supplied by site owner |
+| public/images/products/spinach-product.jpg | Supplied by site owner |
+| public/images/products/coriander-leaves-product.jpg | Supplied by site owner |
+| public/images/products/curry-leaves-product.jpg | Supplied by site owner |
+| public/images/products/green-chilli-product.jpg | Supplied by site owner |
+| public/images/products/amaranth-greens-product.jpg | Supplied by site owner |
+| public/images/products/mango-product.jpg | Supplied by site owner |
+| public/images/products/jamun-product.jpg | Supplied by site owner |
+| public/images/products/papaya-product.jpg | Supplied by site owner |
+| public/images/products/jackfruit-product.jpg | Supplied by site owner |
+| public/images/products/neem-leaves-product.jpg | Supplied by site owner |
+| public/images/products/colocasia-leaves-product.jpg | Supplied by site owner |
+| public/images/products/banana-product.jpg | Supplied by site owner |
+| public/images/products/moringa-leaves-pods-product.jpg | Supplied by site owner |
+| public/images/products/ber-product.jpg | Supplied by site owner |
+| public/images/products/pumpkin-product.jpg | Supplied by site owner |
+| public/images/products/okra-product.jpg | Supplied by site owner |
+| public/images/products/ridge-gourd-product.jpg | Supplied by site owner |
+| public/images/products/brinjal-product.jpg | Supplied by site owner |
+| public/images/products/wood-apple-product.jpg | Supplied by site owner |
+| public/images/products/amla-product.jpg | Supplied by site owner |
+| public/images/products/lemon-product.jpg | Supplied by site owner |
+| public/images/products/palash-flowers-product.jpg | Supplied by site owner |
+| public/images/products/green-peas-product.jpg | Supplied by site owner |
+| public/images/products/tamarind-product.jpg | Supplied by site owner |
+| public/images/products/mint-leaves-product.jpg | Supplied by site owner |
+| public/images/products/tulsi-leaves-product.jpg | Supplied by site owner |
+| public/images/products/bitter-gourd-product.jpg | Supplied by site owner |
+| public/images/products/fenugreek-leaves-product.jpg | Supplied by site owner |
+| public/images/products/lemongrass-product.jpg | Supplied by site owner |
+| public/images/products/custard-apple-product.jpg | Supplied by site owner |
 | public/images/site/hero-dried-fruit.jpg | https://www.pexels.com/photo/7111409/ |
 | public/images/site/hero-spice-jars.jpg | https://www.pexels.com/photo/618491/ |
 | public/images/site/hero-farm.jpg | https://www.pexels.com/photo/89267/ |
+| public/images/site/hero-seedling.jpeg | Supplied by site owner |
+| public/images/site/hero-dehydrated-selection.jpeg | Supplied by site owner |
+| public/images/site/hero-herbal-solutions.jpeg | Supplied by site owner |
+| public/images/site/hero-powder-range.jpeg | Supplied by site owner |
+| public/images/site/process-sourcing.jpeg | Supplied by site owner |
+| public/images/site/process-cleaning.jpeg | Supplied by site owner |
+| public/images/site/process-cutting.jpeg | Supplied by site owner |
+| public/images/site/process-dehydration-pulverizing.jpeg | Supplied by site owner |
+| public/images/site/process-quality-inspection.jpeg | Supplied by site owner |
+| public/images/site/process-packaging-storage.jpeg | Supplied by site owner |
 | public/images/site/farm-people.jpg | https://www.pexels.com/photo/2382904/ |
 | public/images/site/drying.jpg | https://www.pexels.com/photo/24991353/ |
 | public/images/site/dried-market.jpg | https://www.pexels.com/photo/5332498/ |

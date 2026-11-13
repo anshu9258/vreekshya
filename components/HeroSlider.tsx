@@ -3,9 +3,10 @@ import Image from "next/image";
 import { useEffect, useState } from "react";
 
 const slides = [
-  "/images/site/hero-dried-fruit.jpg",
-  "/images/site/hero-spice-jars.jpg",
-  "/images/site/hero-farm.jpg",
+  "/images/site/hero-seedling.jpeg",
+  "/images/site/hero-dehydrated-selection.jpeg",
+  "/images/site/hero-herbal-solutions.jpeg",
+  "/images/site/hero-powder-range.jpeg",
 ];
 
 // Crossfading background. Stops if the visitor picks a slide or prefers reduced motion.
