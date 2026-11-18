@@ -39,7 +39,7 @@ export default function Home() {
 
       <section className="section">
         <div className="wrap two center-y">
-          <div className="photo"><Image src="/images/site/dried-market.jpg" alt="Assorted dried ingredients on display" fill sizes="(max-width: 860px) 100vw, 560px" /></div>
+          <div className="photo"><Image src="/images/site/dried-market.png" alt="Fresh vegetables and dehydrated vegetable chips" fill sizes="(max-width: 860px) 100vw, 560px" /></div>
           <div>
             <p className="eyebrow">Who we are</p>
             <h2>Bringing nature’s goodness to everyday life</h2>
